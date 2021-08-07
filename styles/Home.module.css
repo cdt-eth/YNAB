@@ -50,6 +50,16 @@
   font-size: 4rem;
 }
 
+.description a {
+  color: #0070f3;
+}
+
+.description a:hover,
+.description a:focus,
+.description a:active {
+  text-decoration: underline;
+}
+
 .title,
 .description {
   text-align: center;
@@ -111,6 +121,9 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.link {
 }
 
 @media (max-width: 600px) {
