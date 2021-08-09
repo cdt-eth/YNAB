@@ -16,8 +16,7 @@ export default function Home() {
           Welcome to <a href="https://www.youneedabudget.com/">YNAB!</a>
         </h1>
         <p className={styles.description}>
-          Get started by editing logging{" "}
-          <a href="https://www.youneedabudget.com/">in</a>.
+          Get started by editing logging <a href="/dashboard">in</a>.
         </p>
       </main>
 
